@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Obtener datos JSON desde GitHub</title>
+</head>
+<body>
+
+<h1>Datos JSON desde GitHub</h1>
+
+<div id="json-container">
+  <!-- Aquí se mostrarán los datos JSON -->
+</div>
+
+<script>
+// URL del archivo JSON en GitHub
+var jsonUrl = 'https://tu-usuario.github.io/mi-repositorio/datos.json';
+
+// Realizar solicitud HTTP GET para obtener los datos JSON
+fetch(jsonUrl)
+  .then(response => {
+    // Verificar si la solicitud fue exitosa
+    if (!response.ok) {
+      throw new Error('No se pudo obtener el archivo JSON.');
+    }
+    // Convertir la respuesta a formato JSON
+    return response.json();
+  })
+  .then(data => {
+    // Manipular los datos JSON obtenidos
+    displayJsonData(data);
+  })
+  .catch(error => {
+    // Capturar errores y mostrar mensajes de error
+    console.error('Error al obtener datos JSON:', error);
+  });
+
+// Función para mostrar los datos JSON en la página
+function displayJsonData(data) {
+  var jsonContainer = document.getElementById('json-container');
+  // Convertir el objeto JSON a una cadena con formato JSON
+  var jsonString = JSON.stringify(data, null, 2);
+  // Mostrar la cadena JSON en el contenedor HTML
+  jsonContainer.innerText = jsonString;
+}
+</script>
+
+</body>
+</html>

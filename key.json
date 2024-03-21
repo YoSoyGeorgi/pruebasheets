@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "studied-biplane-411301",
+  "private_key_id": "a59f88cf71b991965b6033248f24ccd2f8019bf0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzIJua0e4M5t4N\nqWJr3X28yM0TvITNuwiNQv7GjTYIi0znaGVXvHycyYNcfqxf7bhIdZUsispo/7uV\ny4t7z8uMAuUUoMe4jDGTMHQPGV3cbJm/p2Rt7Dw54+QrFEZc3O8ros8fgm1nLCu5\nSiMik8VVm6VIAOe6bWiML132DUushD8yMx6shFf0UIpJxS9N+gYYEdO3jL1HZCH1\nZyj9YMQGS6z10eDYR5hg0qSR1ZeG2nN0avmvE4OpiuRdlf/dHly+A1wwScGh0G4m\nfv4Fx1eL9eoVS4DDVCOTgbz7Eo8Ql+33C/vWyqyK5/YHxtFx8qFsattx5dKJBAI6\n0Jksxc4bAgMBAAECggEAF+t5S/XPm5JywZFGbs//e+e2lvWcKFra+/4fxoTR29c6\nOEaVDd/CJi+0pnPV8eNtMePdvTp1aAsKUikBodFwRWyXiacktGyoLBcS0HdbNNWd\nvF2OiC09J5/adrQ45yqrl4Cgtvz0PgxEdHRFd9cSyWlE63YPe7IjfWDP480Ht2wh\n2t2y75PXk6TXMCCQBwKzklNrnmhuIkgRFHA11WwnnK6S36JbEl+10oJLv8QgwVZy\n16sUJ5XOrEp+Vbk6dC9BXN463ZHzrl7gaPq5nEQKaxQ/xYyX/+O97svQYMhAookT\nxWvsuJm3VegAIMv1JgQHyzZRpqhzEm4sAfi6prtqrQKBgQDzJiy0OGGtmaRKagRq\nZgRdPMJM4ArgS+9mYnmoLSBi5/vcJ++ZV3gBcDDyIRoWbHHvb5UwBH3aYX+afBRO\n3Ed8TYI5zO/57smIMx0NEFVw0TnUMAIRuzk/lOba2omfmYp+yiXomchv2/dtbxXx\nalT+LSrKuuAdbXZC9KPWaytrtwKBgQC8mDbc97fNi39AAbFZSQ4rpGPYDP5M8Eab\nLVOdSVsKqyQGCXp43ALCrhvcalRvDjvBMkBYBFxKT79F9GqP+uyf0WKAIePIxbAo\nUDmSGCmsIkhH3TtY7qJNzGLyuZBHtdYB1LoiYCRzA/60igD70e7RYpzfJdsNFkB+\nfbe76ZL4vQKBgQCP1VU8ht3BQ9Hb8zsJda+/N+H4d8/3PvQvLLGquocd+v0SDs29\nd/CVaTiLAunbuersKKWn8gBA3swNJrkcrVHcRj1y07hhsM+mshXNVIw2YI5E5uFS\ne94xrnOhowUmVD2JIyupnM7k3MpRAhWI6c29ThqyMjnBLq92jCEfBeZ5oQKBgEEl\nGx5s+zKnEwebDhXXZGuy10JUCqus+9aya4WTRz2CLGlhcMq6xMFWvwz+Nbg+5Gkx\n4IQGzZJlxZ52dTDS7lWuUCYOjs5VayohvCE483wgQ3N/efaYR7wz86IAc1Qx/YCY\naMtjBnQsVxkp6nkR5Tqyo5l5TBdTLmgDKSph3oDJAoGANuimnX1yQbSpwKTnPqhC\nEPoWPSM3VxwW1Fs9rbcFTMsaOOxQY8yP0Yw0eZnVwzktlZWFMJvxDTYNSF4D+5pm\neNNrsa0jnPHJxpjZhnPRoBdsHILV8rk+9NJdoBg5erAy1XTl1IN1ZnXDGXCAVWGp\n2p5RRXAsynbLO7uyCGchN9g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prueba@studied-biplane-411301.iam.gserviceaccount.com",
+  "client_id": "104237616077641726022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prueba%40studied-biplane-411301.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
